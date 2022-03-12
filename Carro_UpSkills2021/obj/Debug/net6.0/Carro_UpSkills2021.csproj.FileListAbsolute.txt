@@ -1,0 +1,15 @@
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.csproj.AssemblyReference.cache
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.AssemblyInfoInputs.cache
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.AssemblyInfo.cs
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.csproj.CoreCompileInputs.cache
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\bin\Debug\net6.0\Carro_UpSkills2021.exe
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\bin\Debug\net6.0\Carro_UpSkills2021.deps.json
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\bin\Debug\net6.0\Carro_UpSkills2021.runtimeconfig.json
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\bin\Debug\net6.0\Carro_UpSkills2021.dll
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\bin\Debug\net6.0\Carro_UpSkills2021.pdb
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.dll
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\refint\Carro_UpSkills2021.dll
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.pdb
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\Carro_UpSkills2021.genruntimeconfig.cache
+C:\Users\José Dias\source\repos\PROF_CÉLIO CARVALHO\Carro_UpSkills2021\obj\Debug\net6.0\ref\Carro_UpSkills2021.dll
